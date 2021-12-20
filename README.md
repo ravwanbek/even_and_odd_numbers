@@ -15,3 +15,4 @@ Automated grading of homework assignments and tests
 
 # Warning
 - don't copy other solutions or any solution
+- don't remove comments
